@@ -99,7 +99,7 @@ section{
 }
 
 #menu-btn{
-    display: flex;
+    display: none;
 }
 
 .header .search-form{
